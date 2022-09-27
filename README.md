@@ -25,9 +25,8 @@ Our MVP end of the week was to have these functions in our game:
 <h4 id="#markdown-header-technologies">
 Technologies
 </h4>
-The entirety of this project involved:
+The technologies involved:
 * Unity Game Engine
-  * Sdf
 * C# Language
 
 
@@ -42,5 +41,8 @@ Testing and TroubleShooting
 <h4 id="#markdown-header-lessons-learned">
 Lessons Learned
 </h4>
+
+
+3D Asset Used: https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508
 
 
