@@ -15,16 +15,21 @@ Table of Contents
 <h4 id="#markdown-header-planning">
 Planning
 </h4>
-Myself and a group of three others attempted to learn unity basics and create a 3D game with the last week of our coding stack.
-Our MVP for the end of the week was to have these functions in our game:
+Myself and a group of two others attempted to learn unity basics and create a 3D game with the last week of our coding stack.
+Our MVP end of the week was to have these functions in our game:
 
-* 
-* Fly
+* User should have basic movement control
+* Navigate an obstacle filled environment
+
 
 <h4 id="#markdown-header-technologies">
 Technologies
 </h4>
-
+The entirety of this project involved:
+* Unity Game Engine
+  * [Unity Asset Pack Pips the Pigeon] (https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508)  
+* C# Language
+* 
 
 <h4 id="#markdown-header-the-project">
 The Project
