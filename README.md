@@ -17,8 +17,8 @@ Planning
 </h4>
 Myself and a group of three others attempted to learn unity basics and create a 3D game.
 Our planned MVP was to have our pigeon model:
-  * Fly left right and forwards at a constant speed
-  * jk
+  -  Fly left right and forwards at a constant speed
+  -  jk
 
 
 <h4 id="#markdown-header-technologies">
