@@ -8,4 +8,6 @@ Table of Contents
 3. [The-Project](#markdown-header-the-project)
 4. [Lessons Learned](#markdown-header-lessons-learned)
 
-Planning (#markdown-planning)
+<h4 id="#markdown-header-planning">
+Planning
+</h4>
