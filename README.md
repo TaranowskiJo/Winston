@@ -16,7 +16,7 @@ Table of Contents
 Planning
 </h4>
 Myself and a group of three others attempted to learn unity basics and create a 3D game.
-Our planned MVP was to have our pigeon model:
+
 * Fly
 * Fly
 
