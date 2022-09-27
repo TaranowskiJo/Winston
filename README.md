@@ -61,9 +61,7 @@ The final product was our pigeon flying forward at a constant rate, with our cam
 Lessons Learned
 </h4>
 
-This project was rich in new skills for all of us. Along with the time crunch to learn a new program, we had to balance the coordination of schedules, vision, interests, and abilities. Our daily standups were essential to our daily direction, especially in creating a project which got revisioned multiple times throughout the course of a week. 
-
-
+This project was rich in new skills for all of us. Along with the time crunch to learn a new program, we had to balance the coordination of schedules, vision, interests, and abilities. Our daily standups were essential to our daily direction, especially in creating a project which got revisioned multiple times throughout the course of a week. We had to compromise on many elements of the gameplay due to our limited knowledge and limited time available to us. 
 
 
 ![shot2](https://user-images.githubusercontent.com/75503351/192647363-dd8a5dea-f382-4c6f-9bbe-3ecfd4afb6f7.jpg)
