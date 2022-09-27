@@ -42,6 +42,8 @@ Ultimately, through a handful of user tests we determined the most sensible opti
 The alternative was a dynamic control set involving the mouse and traditional 'wasd' for left,down,center,right, in addition to a mouse controlled camera.
 However this was scrapped due to being unintuitive and the forward key being redundant in our overall game design. We determined holding down the forwared key in a game in which we never intended you to move backwards through the level was unnecessary and uncomfortable. Also, given how significantly we had to scale down the overall project, it was a similar reasoning for the mouse camera being removed from the project, as we did not want to add extra features that didn't align with the intended gameplay. 
 
+![shot1](https://user-images.githubusercontent.com/75503351/192647652-5663b851-5066-40a6-8a04-def567606644.jpg)
+
 
 <h4 id="#markdown-header-the-project">
 The Project
@@ -51,8 +53,8 @@ The Project
 The final product was our pigeon flying forward at a constant rate, with our camera following it from a set distance, left/right controls to dodge obstacles that, if hit, would result in collisions. 
 
 
-![shot1![cam1](https://user-images.githubusercontent.com/75503351/192647394-5710481f-da6f-48db-9f68-a9bca9b69dd1.jpg)
-](https://user-images.githubusercontent.com/75503351/192647339-81629a49-b059-4ca7-b2e4-76e9f757fac6.jpg)
+![cam1](https://user-images.githubusercontent.com/75503351/192647497-344a4f86-17bc-42e7-8192-d3061925b44b.jpg)
+![level1](https://user-images.githubusercontent.com/75503351/192647613-fe941eb4-5bc3-4a0b-b2e8-d84d77bfc23b.jpg)
 
 
 <h4 id="#markdown-header-lessons-learned">
