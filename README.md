@@ -45,18 +45,6 @@ Lessons Learned
 </h4>
 
 
-<h4 id="#markdown-header-the-project">
-The Project
-</h4>
-
-<h4 id="#markdown-header-teseting-and-troubleshooting">
-Testing and TroubleShooting
-</h4>
-
-<h4 id="#markdown-header-lessons-learned">
-Lessons Learned
-</h4>
-
 
 
 
