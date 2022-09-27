@@ -27,7 +27,7 @@ Technologies
 </h4>
 The entirety of this project involved:
 * Unity Game Engine
-  * [Unity Asset Pack Pips the Pigeon] (https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508)  
+* [Unity Asset Pack Pips the Pigeon] (https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508)  
 * C# Language
 * 
 
