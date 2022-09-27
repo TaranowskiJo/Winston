@@ -27,7 +27,7 @@ Technologies
 </h4>
 The entirety of this project involved:
 * Unity Game Engine
-  - sdf
+*   Sdf
 * C# Language
 
 
