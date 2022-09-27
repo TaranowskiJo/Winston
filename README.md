@@ -28,7 +28,7 @@ Technologies
 The technologies involved:
 * Unity Game Engine
 * C# Language
-
+[Pips the Pigeon](https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508)
 
 <h4 id="#markdown-header-the-project">
 The Project
@@ -43,6 +43,6 @@ Lessons Learned
 </h4>
 
 
-[3D Asset Used](https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508)
+
 
 
