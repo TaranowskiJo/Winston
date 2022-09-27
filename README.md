@@ -10,5 +10,5 @@ Table of Contents
 
 
 <h4 id="#markdown-header-planning">
-##Planning
+Planning
 </h4>
