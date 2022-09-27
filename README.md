@@ -9,7 +9,9 @@ Table of Contents
 <h4 id="#markdown-header-planning">
 Planning
 </h4>
+
 [Pips the Pigeon](https://assetstore.unity.com/packages/3d/characters/animals/birds/pips-the-pigeon-quirky-series-178508)
+
 Myself and a group of two others attempted to learn unity basics and create a 3D game with the last week of our coding stack.
 Our MVP end of the week was to have these functions in our game:
 
