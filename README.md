@@ -25,7 +25,9 @@ Our MVP end of the week was to have these functions in our game:
 <h4 id="#markdown-header-technologies">
 Technologies
 </h4>
+
 The entirety of this project involved:
+
 * Unity Game Engine
 * C# Language
 
